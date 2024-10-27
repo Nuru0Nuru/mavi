@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Brenda\source\repos\MAVI\uni 3 act 1\uni 3 act 1\main.cpp(24,47): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Brenda\source\repos\MAVI\uni 3 act 1\uni 3 act 1\main.cpp(24,38): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Brenda\source\repos\MAVI\uni 3 act 1\uni 3 act 1\main.cpp(25,63): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Brenda\source\repos\MAVI\uni 3 act 1\uni 3 act 1\main.cpp(25,46): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  uni 3 act 1.vcxproj -> C:\Users\Brenda\source\repos\MAVI\uni 3 act 1\Debug\uni 3 act 1.exe
